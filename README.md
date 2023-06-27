@@ -1,4 +1,4 @@
-##Before starting
+## Before starting
 
 The pipeline needs to have installed the tool PROFILE (PeRsonalization OF logIcaL ModEls) which can be found in https://github.com/sysbio-curie/PROFILE
 
